@@ -1,0 +1,10 @@
+.container-addUser{
+    padding: 0%;
+    /* margin: 0%; */
+    background-image: url('../images/reg2.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    /* width: 200%; */
+    height: 120vh;
+}

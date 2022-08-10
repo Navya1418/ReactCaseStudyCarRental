@@ -1,0 +1,19 @@
+.container-forget{
+    padding: 0%;
+    /* margin: 0%; */
+    background-image: url('../images/forget8.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    width: 100%;
+    height: 100vh;
+}
+.h2-forget{
+    font-style: normal;
+    font-size: 36px;
+    /* font-display: initial; */
+    color: lightcoral;
+    /* background-color:lightblue; */
+    font-weight: 100;    
+    font-family: 'Times New Roman', Times, serif;
+}
